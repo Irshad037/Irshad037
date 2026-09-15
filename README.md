@@ -1,6 +1,6 @@
 # Hi 👋, I'm Irshad Ali Chaudhary
 
-### 🚀 Full Stack MERN Developer | Computer Engineering Student
+### 🚀 Full Stack MERN Developer | React.js | Node.js | MongoDB
 
 I am a Full Stack Developer passionate about building scalable and user-friendly web applications.  
 Currently pursuing **Bachelor of Engineering in Computer Engineering** from **M.G.M's College of Engineering and Technology** with a CGPA of **9.00**.
@@ -11,8 +11,8 @@ I have hands-on experience working with the **MERN Stack (MongoDB, Express.js, R
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working as **MERN Stack Developer Intern at Tech Jose**
-- 🌱 Learning advanced backend development, system design, and cloud deployment
+- 💼 Former **MERN Stack Developer Intern at Tech Jose (Dec 2025 - June 2026)**
+- 🌱 Currently learning advanced backend development, system design, and cloud deployment
 - 💻 Experienced in building REST APIs and full-stack applications
 - 🧩 Interested in Web Development, Backend Engineering, and Software Development
 - ⚡ Love solving problems and improving my DSA skills
@@ -46,13 +46,14 @@ I have hands-on experience working with the **MERN Stack (MongoDB, Express.js, R
 # 💼 Experience
 
 ## MERN Stack Developer Intern — Tech Jose
-**Dec 2025 - Present**
+**Dec 2025 - June 2026**
 
 - Developed and maintained full-stack web applications using MongoDB, Express.js, React.js, and Node.js
 - Built and integrated RESTful APIs for scalable backend services
-- Worked on profile and settings modules
+- Worked on profile, settings, dashboard, and application modules
 - Improved application performance through optimization
-- Fixed multiple production issues and enhanced user experience
+- Fixed production issues and enhanced overall user experience
+- Collaborated with team members to deliver reliable features
 
 ---
 
@@ -60,7 +61,7 @@ I have hands-on experience working with the **MERN Stack (MongoDB, Express.js, R
 
 ## 🌊 Blue Carbon Registry – Blockchain Based MRV System
 
-A secure platform for NGOs, Panchayats, and authorities to submit, verify, and track blue-carbon restoration projects.
+A secure platform enabling NGOs, Panchayats, and authorities to submit, verify, and track blue-carbon restoration projects.
 
 **Tech Stack:**
 - MongoDB
@@ -75,10 +76,9 @@ A secure platform for NGOs, Panchayats, and authorities to submit, verify, and t
 🔗 Repository:
 https://github.com/Irshad037/blue-carbon
 
-
 ---
 
-## 📚 Learnify – Full Stack Learning Platform
+## 📚 Learnify – Full Stack Online Learning Platform
 
 An online learning platform where students can enroll in courses, track progress, and learn new skills.
 
@@ -97,7 +97,6 @@ An online learning platform where students can enroll in courses, track progress
 🔗 Repository:
 https://github.com/Irshad037/Learnify
 
-
 ---
 
 ## 🗳️ VoterLedger – Civic Election Platform
@@ -113,7 +112,6 @@ A modern election management platform allowing users to explore elections, compa
 - Express.js
 - MongoDB
 
-
 ---
 
 # 📊 GitHub Stats
@@ -126,33 +124,33 @@ A modern election management platform allowing users to explore elections, compa
 
 </p>
 
-
 ---
 
 # 🏆 Coding Profiles
 
-### LeetCode
-- Problems Solved: 458+
-- Contest Rating: 1459
+## LeetCode
+
+- Problems Solved: **458+**
+- Contest Rating: **1459**
 - 100 Days Badge 2026
 
 🔗 https://leetcode.com/u/irshad37/
-
 
 ---
 
 # 📫 Connect With Me
 
 <p>
+
 <a href="https://github.com/Irshad037">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com">
+<a href="https://www.linkedin.com/in/irshad-ali-68baa433b/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-</p>
 
+</p>
 
 ---
 
