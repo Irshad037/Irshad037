@@ -141,15 +141,20 @@ A modern election management platform allowing users to explore elections, compa
 
 # 📊 GitHub Stats
 
-
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Irshad037&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Irshad037&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irshad037&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irshad037&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 </p>
+---
 
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Irshad037&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
