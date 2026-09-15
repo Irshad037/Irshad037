@@ -143,17 +143,12 @@ A modern election management platform allowing users to explore elections, compa
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Irshad037&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://komarev.com/ghpvc/?username=Irshad037&label=Profile%20Views&color=blue&style=flat" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irshad037&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://img.shields.io/github/followers/Irshad037?label=Followers&style=flat" />
 
-</p>
----
+<img src="https://img.shields.io/github/stars/Irshad037?label=Stars&style=flat" />
 
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Irshad037&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
